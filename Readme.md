@@ -1,10 +1,16 @@
 FCC Data Analysis with Python
 
-#1
+#1 Mean-Variance-Standard deviation Calculator
 
-#2
+https://replit.com/@ManuelLonigro/boilerplate-mean-variance-standard-deviation-calculator-2#mean_var_std.py
 
-#3
+#2 Demographic Data Analizer
+
+https://replit.com/@ManuelLonigro/boilerplate-mean-variance-standard-deviation-calculator-1#main.py
+
+#3 Medical Data Visualizer
+
+https://replit.com/@ManuelLonigro/boilerplate-medical-data-visualizer#main.py
 
 #4 Time series visualizer
 
